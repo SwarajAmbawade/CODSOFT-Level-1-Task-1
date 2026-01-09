@@ -27,5 +27,4 @@ Live Demo: https://<your-github-username>.github.io/<repo-name>/
 
 ## 👨‍💻 Author
 **Swaraj Ambawade**  
-GitHub: https://github.com/SwarajAmbawade  
-LinkedIn: https://www.linkedin.com/in/swaraj-ambawade-69b13b2aa
+GitHub: https://github.com/SwarajAmbawade
